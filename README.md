@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Alan Gawrys and I'm a rising junior at Indiana University Bloomington, from Chicago, IL</p>
+<p align="center">My name is Alan Gawrys and I'm a rising junior at Indiana University Bloomington, from Chicago, IL.</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="12" />.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />

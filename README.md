@@ -1,8 +1,8 @@
-<h1 align="center">I'm Alan Gawrys and I'm a junior at Indiana University Bloomington, from Chicago, IL.</h1>
+<h1 align="center">I'm Alan Gawrys and I'm a senior at Indiana University Bloomington, from Chicago, IL.</h1>
 
 ###
 
-<p align="center">I'm looking to expand my knowledge in Software Engineering, Artificial Intelligence/Machine Learning, and Business.</p>
+<p align="center">I'm looking to expand my knowledge in Software Engineering, Artificial Intelligence/Machine Learning, Systems and Business.</p>
 
 ###
 
